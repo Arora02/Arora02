@@ -13,7 +13,7 @@ Hello, I'm Abhishek, a Data Science Enthusiast with expertise in data analysis, 
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/abhishekarora/Portfolio-Guide/blob/main/README.md).
+Welcome to my portfolio, where I showcase my [projects](https://github.com/Arora02/Portfolio-Guide/blob/main/README.md).
 
 ### 🛠️ Tools
 
