@@ -25,4 +25,4 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/Arora
 ### 👋🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/abhishek02arora/)
-- Take a look at my Data Portfolio -[DataPortfolio](https://www.datascienceportfol.io/abhishek02arora/)
+- Take a look at my Data Portfolio -[DataPortfolio](https://www.datascienceportfol.io/abhishek02arora)
